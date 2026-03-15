@@ -11,3 +11,4 @@ hf_transfer
 gradio==5.44.1
 Pillow
 numpy
+unidecode
