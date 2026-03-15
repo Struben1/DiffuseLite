@@ -1,2 +1,0 @@
-# DiffuseLite
-Image generation 
